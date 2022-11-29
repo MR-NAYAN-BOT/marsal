@@ -718,9 +718,9 @@ def xyz():
     print(f"")
     NAYAN = input("[+] CHOOSE : ")
     if NAYAN in ["A","a"]:
-        os.system("xdg-open python py3.py
+        os.system("xdg-open python py3.py")
     if NAYAN in ["B","b"]:
-        os.system("xdg-open python py2.py
+        os.system("xdg-open python py2.py")
     elif NAYAN in ["F","0f"]:
         os.system("xdg-open https://www.facebook.com/MR.NAYAN.45");xyz()
     elif NAYAN in ["W","0w"]:
